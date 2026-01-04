@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664267765188",
+    "project_id": "sadhana-buddy-be29f",
+    "storage_bucket": "sadhana-buddy-be29f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664267765188:android:ed997c82d3f50502a46091",
+        "android_client_info": {
+          "package_name": "com.example.sadhana_buddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6hsQY04LpD6rfIDrNipzAAgM9WZ4XEGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
